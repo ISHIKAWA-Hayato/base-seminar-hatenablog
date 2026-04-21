@@ -1,5 +1,4 @@
-<BLOG_DOMAIN>:
-  username: <HATENA_ID>
-  password: <HATENA_API_KEY>
+ishikawa-saitama.hatenablog.com:
+  username: ishikawa-saitama
 default:
   local_root: entries
