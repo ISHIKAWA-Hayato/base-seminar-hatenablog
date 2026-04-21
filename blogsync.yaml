@@ -1,4 +1,5 @@
-<BLOG DOMAIN>:
-  username: <BLOG OWNER HATENA ID>
+<BLOG_DOMAIN>:
+  username: <HATENA_ID>
+  password: <HATENA_API_KEY>
 default:
   local_root: entries
